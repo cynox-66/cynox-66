@@ -42,10 +42,8 @@ My goal is to grow into a dependable engineer who can be trusted with real respo
 
 ---
 
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=cynox-66&theme=darkhub&no-frame=true&row=1" />
-
+## 🐍 Contribution Graph
+<img src="https://github.com/cynox-66/cynox-66/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
