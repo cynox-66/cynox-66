@@ -42,12 +42,9 @@ My goal is to grow into a dependable engineer who can be trusted with real respo
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cynox-66&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+## 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=cynox-66&theme=darkhub&no-frame=true&column=6)
 
-![](https://nirzak-streak-stats.vercel.app/?user=cynox-66&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cynox-66&theme=dark&hide_border=false&layout=compact)
 
 ---
 
