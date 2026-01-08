@@ -45,8 +45,9 @@ My goal is to grow into a dependable engineer who can be trusted with real respo
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/cynox-66/cynox-66/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cynox-66/cynox-66/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
