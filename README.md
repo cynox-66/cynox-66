@@ -23,7 +23,7 @@
       </a>
     </td>
     <td width="34%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=dark&background=0d1117&border=30363d&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
