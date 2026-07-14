@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="cynox."/>
+<img src="assets/banner.png" width="100%" alt="cynox."/>
 
-<br/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cynox-66&cover_image=true&theme=default">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cynox-66&cover_image=true&theme=default&background_color=121212" alt="Spotify Widget"/>
+</a>
 
 > Building structured systems. Exploring protocol-driven architectures.
 
@@ -60,9 +62,7 @@ I value precision, consistency, and engineering depth over surface complexity.
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cynox-66&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynox-66&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" alt="Top Languages"/>
+  <img src="https://metrics.lecoq.io/cynox-66?base.header=false&base.activity=true&base.community=true&base.repositories=true&base.metadata=false&config.timezone=Asia%2FKolkata" alt="Metrics"/>
 </div>
 
 <br/>
