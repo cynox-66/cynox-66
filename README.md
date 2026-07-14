@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="cynox."/>
+<img src="assets/banner.png?v=2" width="100%" alt="cynox."/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
 <img src="assets/divider.svg" width="100%" alt=""/>
 <br/>
 
-## 🛠 Technical Stack
+## Technical Stack
 
 | I have | I'm learning |
 | :---: | :---: |
@@ -41,7 +41,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
 <img src="assets/divider.svg" width="100%" alt=""/>
 <br/>
 
-## 📊 Activity
+## Activity
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
 <img src="assets/divider.svg" width="100%" alt=""/>
 <br/>
 
-## 🌱 Engineering Direction
+## Engineering Direction
 
 Working toward contributing to large open-source systems and developing protocol-level understanding through structured, implementation-focused projects.
 
@@ -67,7 +67,7 @@ Pinned repositories reflect projects that emphasize architecture, reasoning, and
 <img src="assets/divider.svg" width="100%" alt=""/>
 <br/>
 
-## 🔗 Connect
+## Connect
 
 - LinkedIn: https://linkedin.com/in/dev-jaiswal--  
 - Instagram: https://instagram.com/devxdxd

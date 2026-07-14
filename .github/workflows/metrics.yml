@@ -13,8 +13,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: cynox-66
-          template: classic
-          base: ""
+          template: terminal
+          base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
