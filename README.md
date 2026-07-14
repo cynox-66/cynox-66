@@ -111,9 +111,9 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
 
 ## Engineering Direction
 
-Working toward contributing to large open-source systems and developing protocol-level understanding through structured, implementation-focused projects.
+I am deeply focused on building systems that operate near the metal and at the intersection of artificial intelligence and security. My recent work involves delving into rigorous systems engineering (such as low-latency KVMs and Bitcoin SPV nodes), establishing secure infrastructure (like identity verifiers and Kubernetes tooling), and crafting intelligent data extraction platforms.
 
-Pinned repositories reflect projects that emphasize architecture, reasoning, and problem-solving depth.
+My repositories are a reflection of my commitment to solid architecture, algorithmic reasoning, and tackling complex protocol-level challenges head-on.
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -121,5 +121,12 @@ Pinned repositories reflect projects that emphasize architecture, reasoning, and
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/dev-jaiswal--  
-- Instagram: https://instagram.com/devxdxd
+<div align="left">
+  <a href="https://linkedin.com/in/dev-jaiswal--">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/devxdxd">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
