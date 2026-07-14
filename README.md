@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="cynox."/>
+<img src="assets/banner.png" width="100%" alt="cynox."/>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=placeholder&cover_image=true&theme=default">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=placeholder&cover_image=true&theme=default&background_color=121212" alt="Spotify Widget"/>
