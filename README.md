@@ -2,9 +2,11 @@
 
 <img src="assets/banner.png" width="100%" alt="cynox."/>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cynox-66&cover_image=true&theme=default">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cynox-66&cover_image=true&theme=default&background_color=121212" alt="Spotify Widget"/>
-</a>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify Widget"/>
+  </a>
+</p>
 
 > Building structured systems. Exploring protocol-driven architectures.
 
@@ -34,32 +36,9 @@ I value precision, consistency, and engineering depth over surface complexity.
 
 ## 🛠 Technical Stack
 
-<br/>
-
-### Core Languages
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-
-<br/>
-
-### Working Experience
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br/>
-
-### Ecosystem & Tools
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+| I have | I'm learning | In the memory banks |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,flask,mongodb,mysql,tailwind,figma&perline=3" /> | <img src="https://skillicons.dev/icons?i=rust,go,supabase,docker,githubactions&perline=2" /> | <img src="https://skillicons.dev/icons?i=c,cpp&perline=2" /> |
 
 <br/><br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -68,7 +47,9 @@ I value precision, consistency, and engineering depth over surface complexity.
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cynox-66?base.header=false&base.activity=true&base.community=true&base.repositories=true&base.metadata=false&config.timezone=Asia%2FKolkata" alt="Metrics"/>
+  <img src="https://metrics.lecoq.io/cynox-66?base.header=false&base.activity=true&base.community=true&base.repositories=true&base.metadata=false&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config.timezone=Asia%2FKolkata" alt="Metrics"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&title_color=3B82F6&text_color=F3F4F6&icon_color=3B82F6&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
 </div>
 
 <br/>
