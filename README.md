@@ -2,8 +2,10 @@
 
 <img src="assets/banner.png" width="100%" alt="cynox."/>
 
+<br/><br/>
+
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" width="360" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" width="400" alt="Spotify Now Playing"/>
 </a>
 
 </div>
@@ -14,14 +16,17 @@
 
 ## 🚀 About
 
-```
-dev jaiswal / cynox-66                              📍 Pune, India
-─────────────────────────────────────────────────────────────────
-→  building systems that behave correctly under pressure
-→  interested in: distributed systems · runtime security · infra
-→  currently:  Electron productivity engine (custom render pipeline)
-               protocol-oriented + open-source exploration
-```
+I design software with emphasis on clarity, modular structure, and long-term maintainability.
+
+My work focuses on how systems behave internally — state flow, transaction validation, component boundaries, and complexity control.
+
+**Currently:**
+- Developing a custom Electron-based productivity engine with a structured layout and rendering pipeline.
+- Strengthening algorithmic reasoning and codebase navigation skills.
+- Studying distributed and protocol-oriented systems.
+- Preparing for deeper open-source contributions.
+
+I value precision, consistency, and engineering depth over surface complexity.
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -41,9 +46,9 @@ dev jaiswal / cynox-66                              📍 Pune, India
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/cynox-66?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&config.timezone=Asia%2FKolkata&config.padding=0" alt="Isometric Commit Calendar"/>
+<img src="github-metrics.svg" alt="Isometric Commit Calendar"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
 
