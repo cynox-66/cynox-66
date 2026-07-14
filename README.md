@@ -7,13 +7,13 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center">
+    <td width="30%" align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&mode=dark&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify Now Playing"/>
       </a>
     </td>
     <td width="25%" align="center">
-      <h2>Connect</h2>
+      <h3>Connect :)</h3>
       <a href="https://linkedin.com/in/dev-jaiswal--">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="45%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
     </td>
   </tr>
