@@ -7,12 +7,12 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&mode=dark&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify Now Playing"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h2>Connect</h2>
       <a href="https://linkedin.com/in/dev-jaiswal--">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,6 +21,9 @@
       <a href="https://www.devjaiswal.me/">
         <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
       </a>
+    </td>
+    <td width="34%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=dark&background=0d1117&border=30363d&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
@@ -107,11 +110,7 @@ I naturally gravitate toward projects that sit close to the metal. To me, the mo
       <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Activity"/>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=dark&background=0d1117&border=30363d&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
-    </td>
-  </tr>
+
 </table>
 
 <br/>
