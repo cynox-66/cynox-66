@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="cynox."/>
+<img src="cynox-66/assets/banner.png" width="100%" alt="cynox."/>
 
 <br/><br/>
 
