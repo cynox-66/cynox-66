@@ -120,5 +120,3 @@ I naturally gravitate toward projects that sit close to the metal. To me, the mo
 - **Goal:** Building resilient, long-term distributed systems.
 
 <br/>
-<img src="assets/divider.svg" width="100%" alt=""/>
-<br/>
