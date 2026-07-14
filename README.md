@@ -41,11 +41,22 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
 <img src="assets/divider.svg" width="100%" alt=""/>
 <br/>
 
+## ⚙️ Strategic Case Studies & Proof of Work
+
+| | |
+|:---:|:---:|
+| **Meridian**<br/><br/>**Outcome:** A thoughtfully designed Electron-based productivity app that combines daily task execution, spatial note-taking, and reflective memory views.<br/><br/>![TECH](https://img.shields.io/badge/TECH-TypeScript_Electron-b91c1c?style=flat-square) | **mini-spv-node**<br/><br/>**Outcome:** Rust implementation of a Bitcoin SPV header validation engine with PoW verification, cumulative work tracking, and fork resolution.<br/><br/>![TECH](https://img.shields.io/badge/TECH-Rust_Bitcoin-b91c1c?style=flat-square) |
+| **HyperHID**<br/><br/>**Outcome:** Open-source low-latency software KVM focused on responsiveness, smoothness, and measurable performance across Windows, macOS, and Linux.<br/><br/>![TECH](https://img.shields.io/badge/TECH-C_Makefile-b91c1c?style=flat-square) | **krkn**<br/><br/>**Outcome:** Chaos and resiliency testing tool for Kubernetes with a focus on improving performance under failure conditions. A CNCF sandbox project.<br/><br/>![TECH](https://img.shields.io/badge/TECH-Go_Kubernetes-b91c1c?style=flat-square) |
+
+<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
+<br/>
+
 ## Activity
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="Isometric Commit Calendar"/>
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Activity"/>
 
 <br/><br/>
 
