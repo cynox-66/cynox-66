@@ -17,15 +17,9 @@
 
 ## About
 
-I design software with an emphasis on **clarity**, **modular structure**, and **long-term maintainability**. My work focuses on how systems behave internally — *state flow, transaction validation, component boundaries,* and *complexity control*.
+I am a software engineer focused on building robust infrastructure, networking tools, and distributed systems. Instead of building standard web applications, I prefer to tackle specialized, low-level challenges. Using languages like Rust, Go, and TypeScript, I build tools ranging from Bitcoin SPV engines and low-latency KVMs to automated identity verification pipelines.
 
-**Currently I am:**
-- **Developing:** A custom Electron-based productivity engine with a structured layout and rendering pipeline.
-- **Strengthening:** Algorithmic reasoning and codebase navigation skills.
-- **Studying:** Distributed and protocol-oriented systems.
-- **Preparing:** For deeper open-source contributions.
-
-> *I value precision, consistency, and engineering depth over surface complexity.*
+I naturally gravitate toward projects that sit close to the metal. To me, the most interesting problems are the ones where performance, memory safety, and strict state management are the primary constraints.
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -49,7 +43,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
       <h3>
         <a href="https://github.com/cynox-66/Meridian">Meridian</a>
       </h3>
-      <p>A thoughtfully designed Electron-based productivity app that combines daily task execution, spatial note-taking, and reflective memory views.</p>
+      <p>A spatial planning application merging task execution with reflective memory. Built to reduce cognitive load over long-term usage.</p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
@@ -59,7 +53,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
       <h3>
         <a href="https://github.com/cynox-66/mini-spv-node">mini-spv-node</a>
       </h3>
-      <p>Rust implementation of a Bitcoin SPV header validation engine with PoW verification, cumulative work tracking, and fork resolution.</p>
+      <p>A Bitcoin SPV implementation verifying block headers and PoW without storing full chain data. Handles fork resolution and cumulative work tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
@@ -71,7 +65,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
       <h3>
         <a href="https://github.com/cynox-66/knowledge-extractor">knowledge-extractor</a>
       </h3>
-      <p>A TypeScript-based tool engineered to parse, extract, and structure knowledge from various unstructured data sources.</p>
+      <p>A browser knowledge extraction pipeline structuring unstructured data via LLMs. Automates insight generation at scale.</p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
@@ -80,7 +74,7 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
       <h3>
         <a href="https://github.com/cynox-66/pr-identity-verifier">pr-identity-verifier</a>
       </h3>
-      <p>An automated identity verification system and utility for GitHub pull requests to ensure repository security and compliance.</p>
+      <p>An automated identity verification system enforcing compliance across distributed teams. Secures pull requests against unauthorized authorship.</p>
       <p>
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -111,9 +105,10 @@ I design software with an emphasis on **clarity**, **modular structure**, and **
 
 ## Engineering Direction
 
-I am deeply focused on building systems that operate near the metal and at the intersection of artificial intelligence and security. My recent work involves delving into rigorous systems engineering (such as low-latency KVMs and Bitcoin SPV nodes), establishing secure infrastructure (like identity verifiers and Kubernetes tooling), and crafting intelligent data extraction platforms.
-
-My repositories are a reflection of my commitment to solid architecture, algorithmic reasoning, and tackling complex protocol-level challenges head-on.
+- **Open Source:** Actively contributing to Cloud Native Computing Foundation (CNCF) and Linux Foundation security projects.
+- **Security & Infrastructure:** Exploring runtime security, eBPF, and Kubernetes workload hardening.
+- **Language Focus:** Writing Rust for memory-safe systems programming and Go for cloud-native tooling.
+- **Goal:** Building resilient, long-term distributed systems.
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -126,7 +121,7 @@ My repositories are a reflection of my commitment to solid architecture, algorit
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/devxdxd">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.devjaiswal.me/">
+    <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
 </div>
