@@ -2,13 +2,9 @@
 
 <img src="assets/banner.png" width="100%" alt="cynox."/>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify Widget"/>
-  </a>
-</p>
-
-> Building structured systems. Exploring protocol-driven architectures.
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=compact&show_offline=false&background_color=0d1117&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true" width="360" alt="Spotify Now Playing"/>
+</a>
 
 </div>
 
@@ -18,17 +14,14 @@
 
 ## 🚀 About
 
-I design software with emphasis on clarity, modular structure, and long-term maintainability.
-
-My work focuses on how systems behave internally — state flow, transaction validation, component boundaries, and complexity control.
-
-**Currently:**
-- Developing a custom Electron-based productivity engine with a structured layout and rendering pipeline.
-- Strengthening algorithmic reasoning and codebase navigation skills.
-- Studying distributed and protocol-oriented systems.
-- Preparing for deeper open-source contributions.
-
-I value precision, consistency, and engineering depth over surface complexity.
+```
+dev jaiswal / cynox-66                              📍 Pune, India
+─────────────────────────────────────────────────────────────────
+→  building systems that behave correctly under pressure
+→  interested in: distributed systems · runtime security · infra
+→  currently:  Electron productivity engine (custom render pipeline)
+               protocol-oriented + open-source exploration
+```
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -36,9 +29,9 @@ I value precision, consistency, and engineering depth over surface complexity.
 
 ## 🛠 Technical Stack
 
-| I have | I'm learning | In the memory banks |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,flask,mongodb,mysql,tailwind,figma&perline=3" /> | <img src="https://skillicons.dev/icons?i=rust,go,supabase,docker,githubactions&perline=2" /> | <img src="https://skillicons.dev/icons?i=c,cpp&perline=2" /> |
+| I have | I'm learning |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,flask,mongodb,mysql,tailwind,figma,supabase,docker&perline=6" /> | <img src="https://skillicons.dev/icons?i=rust,go,githubactions,kubernetes,linux&perline=5" /> |
 
 <br/><br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -47,9 +40,13 @@ I value precision, consistency, and engineering depth over surface complexity.
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/cynox-66?base.header=false&base.activity=true&base.community=true&base.repositories=true&base.metadata=false&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&config.timezone=Asia%2FKolkata" alt="Metrics"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&title_color=3B82F6&text_color=F3F4F6&icon_color=3B82F6&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+
+<img src="https://metrics.lecoq.io/cynox-66?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&config.timezone=Asia%2FKolkata&config.padding=0" alt="Isometric Commit Calendar"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
+
 </div>
 
 <br/>
