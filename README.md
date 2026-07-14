@@ -3,13 +3,13 @@
 
 <img src="assets/banner.png?v=2" width="100%" alt="cynox."/>
 
+<br/><br/>
+
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2p2tpm5ucc6kloiyn4huteqwy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&mode=dark&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=false" alt="Spotify Now Playing"/>
 </a>
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## About
 
