@@ -101,15 +101,18 @@ I naturally gravitate toward projects that sit close to the metal. To me, the mo
 
 ## Activity
 
-<div align="center">
-
-<img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Activity"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=transparent&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Activity"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cynox-66&theme=dark&background=0d1117&border=30363d&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=8B949E&dates=8B949E&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Streak Stats"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
