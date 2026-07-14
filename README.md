@@ -17,17 +17,17 @@
 
 ## 🚀 About
 
-I design software with emphasis on clarity, modular structure, and long-term maintainability.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=false&vCenter=false&width=600&lines=Software+Engineer;Focusing+on+Architecture+%26+Clarity;Building+AI+%26+Productivity+Tools" alt="Typing SVG" /></a>
 
-My work focuses on how systems behave internally — state flow, transaction validation, component boundaries, and complexity control.
+I design software with an emphasis on **clarity**, **modular structure**, and **long-term maintainability**. My work zeroes in on how systems behave internally — *state flow, transaction validation, component boundaries,* and *complexity control*.
 
 **Currently:**
-- Developing a custom Electron-based productivity engine with a structured layout and rendering pipeline.
-- Strengthening algorithmic reasoning and codebase navigation skills.
-- Studying distributed and protocol-oriented systems.
-- Preparing for deeper open-source contributions.
+- 🔭 **Developing:** A custom Electron-based productivity engine with a structured layout and rendering pipeline.
+- 🧠 **Strengthening:** Algorithmic reasoning and codebase navigation skills.
+- 🏗️ **Studying:** Distributed and protocol-oriented systems.
+- 🌱 **Preparing:** For deeper open-source contributions.
 
-I value precision, consistency, and engineering depth over surface complexity.
+> *"I value precision, consistency, and engineering depth over surface complexity."*
 
 <br/>
 <img src="assets/divider.svg" width="100%" alt=""/>
