@@ -1,0 +1,14 @@
+<svg width="1200" height="2" viewBox="0 0 1200 2" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .line { 
+        stroke: #E5E7EB; /* Tailwind Gray 200 */
+        stroke-width: 1;
+      }
+      @media (prefers-color-scheme: dark) {
+        .line { stroke: #374151; } /* Tailwind Gray 700 */
+      }
+    </style>
+  </defs>
+  <line x1="0" y1="1" x2="1200" y2="1" class="line" stroke-dasharray="4 4" />
+</svg>
