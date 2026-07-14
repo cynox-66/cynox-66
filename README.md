@@ -37,8 +37,6 @@ Focused on building robust infrastructure, networking tools, and distributed sys
 I naturally gravitate toward projects that sit close to the metal. To me, the most interesting problems are the ones where performance, memory safety, and strict state management are the primary constraints.
 
 <br/>
-<img src="assets/divider.svg" width="100%" alt=""/>
-<br/>
 
 ## Technical Stack
 
@@ -46,8 +44,8 @@ I naturally gravitate toward projects that sit close to the metal. To me, the mo
 | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,flask,mongodb,mysql,tailwind,figma,supabase,docker&perline=6" /> | <img src="https://skillicons.dev/icons?i=rust,go,githubactions,kubernetes,linux&perline=5" /> |
 
-<br/><br/>
-<img src="assets/divider.svg" width="100%" alt=""/>
+
+
 <br/>
 
 ## Projects
@@ -99,8 +97,6 @@ I naturally gravitate toward projects that sit close to the metal. To me, the mo
 </table>
 
 <br/>
-<img src="assets/divider.svg" width="100%" alt=""/>
-<br/>
 
 ## Activity
 
@@ -114,8 +110,7 @@ I naturally gravitate toward projects that sit close to the metal. To me, the mo
 </table>
 
 <br/>
-<img src="assets/divider.svg" width="100%" alt=""/>
-<br/>
+
 
 ## Engineering Direction
 
